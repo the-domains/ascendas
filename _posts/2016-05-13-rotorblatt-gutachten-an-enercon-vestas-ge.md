@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Ascendas Windpower realisiert die Begutachtung des Rotorblattes mit Seilzugangstechnik und die Inspektion mit Drohnen an Windkraftanlagen wie Enercon, Vestas und GE. '
-datePublished: '2016-05-13T11:39:22.332Z'
-dateModified: '2016-05-13T11:38:48.766Z'
+datePublished: '2016-05-13T11:40:49.383Z'
+dateModified: '2016-05-13T11:39:27.497Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-rotorblatt-gutachten-an-enercon-vestas-ge.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-rotorblatt-gutachten-an-enercon-vestas-ge.md
 url: rotorblatt-gutachten-an-enercon-vestas-ge/index.html
 _type: Article
 
