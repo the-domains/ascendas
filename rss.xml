@@ -4,7 +4,7 @@
         <description><![CDATA[ascendas]]></description>
         <link>http://ascendas-windpower.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 11:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:47:32 GMT</lastBuildDate>
         <atom:link href="http://ascendas-windpower.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ascendas windpower]]></title>
@@ -12,6 +12,13 @@
             <link>http://ascendas-windpower.com/ascendas/index.html</link>
             <guid isPermaLink="false">2962c216-f67e-4564-ba9b-d5b560529f3e</guid>
             <pubDate>Fri, 13 May 2016 11:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ascendas windpower]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc985ff8-cff4-4df5-b5ad-ba14e4cf1310.jpg">]]></description>
+            <link>http://ascendas-windpower.com/b51ac975-722b-431c-8d94-5579776f142c/index.html</link>
+            <guid isPermaLink="false">b51ac975-722b-431c-8d94-5579776f142c</guid>
+            <pubDate>Fri, 13 May 2016 11:47:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rotorblatt-Gutachten an Enercon, Vestas, GE]]></title>
@@ -26,13 +33,6 @@
             <link>http://ascendas-windpower.com/rotorblatt-begutachtung/index.html</link>
             <guid isPermaLink="false">d2a23cef-7074-4eb8-b8f5-53c5dcb5596a</guid>
             <pubDate>Fri, 13 May 2016 11:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc985ff8-cff4-4df5-b5ad-ba14e4cf1310.jpg">]]></description>
-            <link>http://ascendas-windpower.com/b51ac975-722b-431c-8d94-5579776f142c/index.html</link>
-            <guid isPermaLink="false">b51ac975-722b-431c-8d94-5579776f142c</guid>
-            <pubDate>Fri, 13 May 2016 11:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ascendas Windenergie - IRATA, GWO, SCC]]></title>
