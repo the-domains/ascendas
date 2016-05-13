@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ascendas]]></title>
         <description><![CDATA[ascendas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ascendas-windpower.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 12:20:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 12:22:10 GMT</lastBuildDate>
+        <atom:link href="http://ascendas-windpower.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52e4f027-9e69-4dac-b72d-2a9b09664aa3.jpg">]]></description>
+            <link>http://ascendas-windpower.com/3f49a09e-1556-48c6-8fac-e4048db6961a/index.html</link>
+            <guid isPermaLink="false">3f49a09e-1556-48c6-8fac-e4048db6961a</guid>
+            <pubDate>Fri, 13 May 2016 12:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/465a91b3-b372-400b-9bc5-7949b7b7f85c.jpg">]]></description>
-            <link>undefinedascendas-windpower-inspektion-dokumentation-und-wartung-v/index.html</link>
+            <link>http://ascendas-windpower.com/ascendas-windpower-inspektion-dokumentation-und-wartung-v/index.html</link>
             <guid isPermaLink="false">4d4f8e02-2e97-4eb3-933f-0daea621bbd0</guid>
             <pubDate>Fri, 13 May 2016 12:20:21 GMT</pubDate>
         </item>
