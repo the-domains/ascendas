@@ -4,13 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Ascendas Windpower realisiert die Begutachtung des Rotorblattes mit Seilzugangstechnik und die Inspektion mit Drohnen an Windkraftanlagen. '
-datePublished: '2016-05-13T11:07:30.391Z'
-dateModified: '2016-05-13T11:07:17.865Z'
+description: Ascendas Windpower realisiert die Begutachtung des Rotorblattes mit Seilzugangstechnik und die Inspektion mit Drohnen an Windkraftanlagen.
+datePublished: '2016-05-13T11:39:54.138Z'
+dateModified: '2016-05-13T11:33:06.275Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-13-rotorblatt-begutachtung.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-rotorblatt-begutachtung.md
 url: rotorblatt-begutachtung/index.html
 _type: Article
 
