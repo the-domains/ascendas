@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ascendas]]></title>
+        <description><![CDATA[ascendas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 12:20:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/465a91b3-b372-400b-9bc5-7949b7b7f85c.jpg">]]></description>
+            <link>undefinedascendas-windpower-inspektion-dokumentation-und-wartung-v/index.html</link>
+            <guid isPermaLink="false">4d4f8e02-2e97-4eb3-933f-0daea621bbd0</guid>
+            <pubDate>Fri, 13 May 2016 12:20:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
