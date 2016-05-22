@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Die Windenergie-Spezialisten von Ascendas arbeiten dabei nur nach anerkannten Verfahrensweisen und Zertifizierungen wie Industrial Rope Access Trade Association (IRATA), Global Wind Organisation (GWO) und Safety Certificate Contractors (SCC) damit Sie sich entspannt zurücklehnen können. Überzeugen Sie sich. ascend@ascendas-windpower.com '
-datePublished: '2016-05-22T17:11:20.561Z'
-dateModified: '2016-05-22T17:10:05.837Z'
+datePublished: '2016-05-22T17:29:42.039Z'
+dateModified: '2016-05-22T17:11:30.546Z'
 title: Zuhause im Windpark - Augen für Ihre Windkraftwerke
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-22-zuhause-im-windpark-augen-fur-ihre-windkraftwerke.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-zuhause-im-windpark-augen-fur-ihre-windkraftwerke.md
 url: zuhause-im-windpark-augen-fur-ihre-windkraftwerke/index.html
 _type: Article
 
