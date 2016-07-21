@@ -4,7 +4,7 @@
         <description><![CDATA[ascendas test]]></description>
         <link>https://thegrid.ai/ascendas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 14:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 14:42:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ascendas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ascend@ascendas-windpower.com - Anfrage für Inspektion, Dokumentation und Wartung von Rotor und Turm]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ascendas/ascendascendas-windpowercom-anfrage-fur-inspektion-doku/index.html</link>
             <guid isPermaLink="false">f242e343-33b0-4547-80f2-3901765c8e75</guid>
             <pubDate>Thu, 21 Jul 2016 14:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8871c7ef8c3eb2cc0a577fa02f1d44da3a970e2.jpg">]]></description>
+            <link>https://thegrid.ai/ascendas/cd0a0082-b318-4ead-9e2d-c01440510183/index.html</link>
+            <guid isPermaLink="false">cd0a0082-b318-4ead-9e2d-c01440510183</guid>
+            <pubDate>Thu, 21 Jul 2016 14:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zuhause im Windpark - Augen für Ihre Windkraftwerke]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ascendas/rotorblatt-gutachten-mit-seilzugangstechnik/index.html</link>
             <guid isPermaLink="false">16840eeb-ee9e-4009-a184-ac3f991dfe8a</guid>
             <pubDate>Thu, 21 Jul 2016 14:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e2d51a-2c07-42c7-bff2-ba1aa592809a.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ascendas/cd0a0082-b318-4ead-9e2d-c01440510183/index.html</link>
-            <guid isPermaLink="false">cd0a0082-b318-4ead-9e2d-c01440510183</guid>
-            <pubDate>Sun, 22 May 2016 18:02:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
