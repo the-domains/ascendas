@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T14:36:48.959Z'
+datePublished: '2016-07-21T14:36:56.453Z'
 sourcePath: _posts/2016-05-22-ascendascendas-windpowercom-anfrage-fur-inspektion-doku.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-21T14:36:47.965Z'
+dateModified: '2016-07-21T14:36:55.844Z'
 title: >-
   ascend@ascendas-windpower.com - Anfrage für Inspektion, Dokumentation und
   Wartung von Rotor und Turm
@@ -21,7 +21,7 @@ publisher:
 description: Seilgestützte Gutachten des Rotorblattes und Inspektion mit Drohnen
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: ascendascendas-windpowercom-anfrage-fur-inspektion-doku/index.html
 _type: Article
 
