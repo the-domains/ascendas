@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T14:41:44.924Z'
+datePublished: '2016-07-21T14:57:19.714Z'
 sourcePath: _posts/2016-05-22-zuhause-im-windpark-augen-fur-ihre-windkraftwerke.md
 inFeed: true
 authors: []
@@ -8,7 +8,8 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-21T14:41:44.315Z'
+via: {}
+dateModified: '2016-07-21T14:57:19.131Z'
 title: Zuhause im Windpark - Augen für Ihre Windkraftwerke
 publisher: {}
 description: >-
@@ -19,7 +20,6 @@ description: >-
   sich. ascend@ascendas-windpower.com
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: zuhause-im-windpark-augen-fur-ihre-windkraftwerke/index.html
 _type: Article
