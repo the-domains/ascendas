@@ -1,7 +1,7 @@
 name: ascendas
 favicon: null
-layout_spectrum: 0.8711283653974533
-typography_spectrum: 0.42762042372487485
+layout_spectrum: 0.21898802742362022
+typography_spectrum: 0.3289072217885405
 title: ascendas test
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.0625
-  lightness: 0.9375
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.1849149742629379
+  lightness: 0.9457824758719653
+  saturation: 0.28871238115243614
+  rhythmicContrast: 0.7294063286390156
 purpose: []
